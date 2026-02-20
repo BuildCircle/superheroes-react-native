@@ -9,7 +9,7 @@ During a battle the character with the highest score wins.
 We expect the solution to be simple, readable, and to be supported by good unit tests (reliable, fast, and asserting behaviour).
 
 ## Setup
-Create a new project using the create react-native app cli with the android or IOS simulator for testing
+Create a new project using the `npx create-expo-app@latest` (or equivilant) command, you can use the android or IOS simulator for testing
 
 ## Hero and villain name input
 We need a way of taking in a hero name and a villain name as inputs, and a battle button to trigger the fight!
